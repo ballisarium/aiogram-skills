@@ -1,0 +1,20 @@
+{
+  "name": "aiogram-skills",
+  "interface": {
+    "displayName": "aiogram skills"
+  },
+  "plugins": [
+    {
+      "name": "aiogram-skills",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/ballisarium/aiogram-skills.git"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "developer tools"
+    }
+  ]
+}

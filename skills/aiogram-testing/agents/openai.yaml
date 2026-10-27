@@ -1,0 +1,4 @@
+interface:
+  display_name: "aiogram testing"
+  short_description: "test bots offline with feed_update"
+  default_prompt: "use $aiogram-testing to test this bot without touching Telegram."

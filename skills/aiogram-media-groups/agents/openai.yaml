@@ -1,0 +1,4 @@
+interface:
+  display_name: "aiogram media groups"
+  short_description: "send and receive albums"
+  default_prompt: "use $aiogram-media-groups to handle these albums."

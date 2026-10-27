@@ -1,0 +1,4 @@
+interface:
+  display_name: "aiogram rate limits"
+  short_description: "survive flood control"
+  default_prompt: "use $aiogram-rate-limits to stop this bot hitting flood limits."

@@ -1,0 +1,35 @@
+{
+  "name": "aiogram-skills",
+  "version": "0.1.0",
+  "description": "sixteen verified Agent Skills for building Telegram bots with aiogram 3.x, plus executable lookup tools that read the installed package",
+  "author": {
+    "name": "ballisarium",
+    "url": "https://github.com/ballisarium"
+  },
+  "homepage": "https://github.com/ballisarium/aiogram-skills#readme",
+  "repository": "https://github.com/ballisarium/aiogram-skills",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "aiogram",
+    "codex",
+    "python",
+    "telegram-bot",
+    "telegram-bot-api"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "aiogram skills",
+    "shortDescription": "build Telegram bots with aiogram 3.x",
+    "longDescription": "Sixteen focused skills covering aiogram 3.x, plus eight lookup tools that inspect the aiogram installed in your project. Verified against aiogram 3.31.0 and Telegram Bot API 10.3 on 2026-09-07.",
+    "developerName": "ballisarium",
+    "category": "developer tools",
+    "capabilities": [],
+    "defaultPrompt": [
+      "build a Telegram bot with aiogram 3.",
+      "add an FSM flow with inline keyboard navigation to this bot.",
+      "migrate this aiogram 2.x bot to aiogram 3.",
+      "why does this aiogram handler never fire?"
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "aiogram routing"
+  short_description: "register handlers and fix dead routes"
+  default_prompt: "use $aiogram-routing to work out why this handler never fires."

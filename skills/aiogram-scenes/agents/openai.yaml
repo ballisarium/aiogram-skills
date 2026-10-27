@@ -1,0 +1,4 @@
+interface:
+  display_name: "aiogram scenes"
+  short_description: "class-based wizards (experimental API)"
+  default_prompt: "use $aiogram-scenes to build this wizard flow."

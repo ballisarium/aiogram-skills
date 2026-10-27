@@ -1,0 +1,4 @@
+interface:
+  display_name: "aiogram streaming"
+  short_description: "stream incremental output to Telegram"
+  default_prompt: "use $aiogram-streaming to stream this output into the chat."

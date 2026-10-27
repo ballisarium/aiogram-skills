@@ -1,0 +1,4 @@
+interface:
+  display_name: "aiogram files"
+  short_description: "uploads, downloads, and file_id reuse"
+  default_prompt: "use $aiogram-files to send and cache this file."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "aiogram middlewares"
+  short_description: "middleware and dependency injection"
+  default_prompt: "use $aiogram-middlewares to inject this dependency into handlers."

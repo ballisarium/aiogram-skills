@@ -1,0 +1,4 @@
+interface:
+  display_name: "aiogram formatting"
+  short_description: "safe message text and entities"
+  default_prompt: "use $aiogram-formatting to format this message safely."

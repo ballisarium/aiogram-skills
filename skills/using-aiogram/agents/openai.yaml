@@ -1,0 +1,4 @@
+interface:
+  display_name: "using aiogram"
+  short_description: "build Telegram bots with aiogram 3.x"
+  default_prompt: "use $using-aiogram to build this Telegram bot with aiogram 3."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "aiogram fsm"
+  short_description: "multi-step conversations that clean up"
+  default_prompt: "use $aiogram-fsm to build this multi-step conversation."

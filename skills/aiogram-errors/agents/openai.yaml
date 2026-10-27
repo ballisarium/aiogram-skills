@@ -1,0 +1,4 @@
+interface:
+  display_name: "aiogram errors"
+  short_description: "diagnose and handle Telegram errors"
+  default_prompt: "use $aiogram-errors to handle this Telegram exception."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "aiogram webhooks"
+  short_description: "run behind an aiohttp webhook"
+  default_prompt: "use $aiogram-webhooks to deploy this bot behind a webhook."

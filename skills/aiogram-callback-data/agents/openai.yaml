@@ -1,0 +1,4 @@
+interface:
+  display_name: "aiogram callback data"
+  short_description: "typed button payloads under 64 bytes"
+  default_prompt: "use $aiogram-callback-data to design these button payloads."

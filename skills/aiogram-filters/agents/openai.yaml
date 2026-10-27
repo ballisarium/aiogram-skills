@@ -1,0 +1,4 @@
+interface:
+  display_name: "aiogram filters"
+  short_description: "match exactly the intended updates"
+  default_prompt: "use $aiogram-filters to narrow this handler to the right events."

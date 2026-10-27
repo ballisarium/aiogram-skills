@@ -1,0 +1,4 @@
+interface:
+  display_name: "aiogram keyboards"
+  short_description: "inline and reply menus"
+  default_prompt: "use $aiogram-keyboards to build this menu."
